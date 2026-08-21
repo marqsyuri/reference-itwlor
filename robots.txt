@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marqsyuri.github.io/reference-itwlor/sitemap.xml
